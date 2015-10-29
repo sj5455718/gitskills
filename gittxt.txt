@@ -1,9 +1,6 @@
 Git is a version control system.
 Git is free software.
 edit by abc.
-<<<<<<< HEAD
 edit by abc 2.
 edit by cde.
-=======
 edit by abc 2.
->>>>>>> aa2f052572ca1de5eb6e99dd000ff76ba50c68ba
